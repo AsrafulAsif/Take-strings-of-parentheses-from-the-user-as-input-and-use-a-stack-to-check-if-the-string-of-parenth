@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563200446 source:e:\c++e\lab06b\stacktype.cpp
+	"StackType.h"
+
+1563200428 e:\c++e\lab06b\stacktype.h
+
+1563200880 source:e:\c++e\lab06b\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1563200446 e:\c++e\lab06b\stacktype.cpp
+	"StackType.h"
+
